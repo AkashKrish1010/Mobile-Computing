@@ -10,8 +10,6 @@ format and provides a clear understanding of various concepts in mobile and wire
 ## 🧑‍💻 Author
 
 **Akash Krish**  
-📧 [akashkrish1010@example.com]
-🎓 B.Tech Information Technology @ SIMATS Engineering
 
 ---
 
