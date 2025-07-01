@@ -1,7 +1,9 @@
 # 📱 Mobile Computing Lab – Experiment Repository
 
 Welcome to the **Mobile Computing Laboratory**!  
-This repository contains a comprehensive collection of **30 practical experiments** aligned with the Mobile Computing syllabus. Each experiment is documented in `.docx` format and provides a clear understanding of various concepts in mobile and wireless communication.
+This repository contains a comprehensive collection of **30 practical experiments** 
+aligned with the Mobile Computing syllabus. Each experiment is documented in `.docx` 
+format and provides a clear understanding of various concepts in mobile and wireless communication.
 
 ---
 
