@@ -1,4 +1,4 @@
-# 📱 Mobile Computing Lab – Experiment Repository
+# 📱 Mobile Computing Lab – Experiment Repository.
 
 Welcome to the **Mobile Computing Laboratory**!  
 This repository contains a comprehensive collection of **30 practical experiments** 
